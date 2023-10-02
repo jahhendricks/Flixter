@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=  ![Flixter](https://github.com/jahhendricks/Flixter/assets/112031521/23d9c110-0d3e-4f1e-9aec-fe5fc5c5ef16)
+<img src=https://github.com/jahhendricks/Flixter/assets/112031521/23d9c110-0d3e-4f1e-9aec-fe5fc5c5ef16
 />
 
 <!-- Replace this with whatever GIF tool you used! -->
